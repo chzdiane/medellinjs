@@ -147,8 +147,7 @@ module.exports = {
       {
         direction: 'r',
         title: 'AngularJS y Ember.js - MVC framworks en el lado del cliente',
-        url:
-          'slides.com/edsadr/angularjs-y-ember-js-mvc-framworks-en-el-lado-del-cliente',
+        url: 'slides.com/edsadr/angularjs-y-ember-js-mvc-framworks-en-el-lado-del-cliente',
         thumbnail:
           'https://s3.amazonaws.com/media-p.slid.es/thumbnails/edsadr/2b1815/angularjs-y-ember-js-mvc-framworks-en-el-lado-del-cliente.jpg',
       },
@@ -195,7 +194,7 @@ module.exports = {
     twitter: 'https://twitter.com/seeleJG',
     github: '',
     avatar:
-      'https://pbs.twimg.com/profile_images/1096089919305469955/6TwewI5__400x400.png',
+      'https://pbs.twimg.com/profile_images/1687357493146501121/n2GnnB7q_400x400.jpg',
     slides: [
       {
         direction: 'r',
@@ -270,8 +269,7 @@ module.exports = {
       {
         direction: 'l',
         title: 'AngularJS y Ember.js - MVC framworks en el lado del cliente',
-        url:
-          'slides.com/edsadr/angularjs-y-ember-js-mvc-framworks-en-el-lado-del-cliente',
+        url: 'slides.com/edsadr/angularjs-y-ember-js-mvc-framworks-en-el-lado-del-cliente',
         thumbnail:
           'https://s3.amazonaws.com/media-p.slid.es/thumbnails/edsadr/2b1815/angularjs-y-ember-js-mvc-framworks-en-el-lado-del-cliente.jpg',
       },
@@ -340,8 +338,7 @@ module.exports = {
     username: '5h1rU',
     twitter: 'https://twitter.com/5h1rU',
     github: 'https://github.com/5h1rU',
-    avatar:
-      'https://pbs.twimg.com/profile_images/1069632070647984128/KaZrvuj1_400x400.jpg',
+    avatar: 'https://avatars.githubusercontent.com/u/989826?v=4',
     slides: [
       {
         direction: 'r',
@@ -499,14 +496,12 @@ module.exports = {
     username: 'abrupto',
     twitter: 'https://twitter.com/abrupto',
     github: 'https://github.com/katio',
-    avatar:
-      'https://pbs.twimg.com/profile_images/954018981244997632/J_3DPptq_400x400.jpg',
+    avatar: 'https://avatars.githubusercontent.com/u/1719536?v=4',
     slides: [
       {
         direction: 'r',
         title: 'Introducción a Ractive.js',
-        url:
-          'slides.com/johannpaulechavarriazapata/introduccion-a-ractive-js#/',
+        url: 'slides.com/johannpaulechavarriazapata/introduccion-a-ractive-js#/',
         thumbnail:
           'https://s3.amazonaws.com/media-p.slid.es/thumbnails/johannpaulechavarriazapata/3720a0/introduccion-a-ractive-js.jpg',
       },
@@ -536,8 +531,7 @@ module.exports = {
       {
         direction: 'l',
         title: 'Introduction to WebGL with three.js for 3D graphics',
-        url:
-          'slides.com/alexramirez/introduction-to-webgl-with-three-js-for-3d-graphics',
+        url: 'slides.com/alexramirez/introduction-to-webgl-with-three-js-for-3d-graphics',
         thumbnail:
           'https://s3.amazonaws.com/media-p.slid.es/thumbnails/alexramirez/041317/introduction-to-webgl-with-three-js-for-3d-graphics.jpg',
       },
@@ -756,8 +750,7 @@ module.exports = {
     username: 'woloski',
     twitter: 'https://twitter.com/woloski',
     github: 'https://github.com/woloski',
-    avatar:
-      'https://pbs.twimg.com/profile_images/994018747739451392/kA7OC8jm_400x400.jpg',
+    avatar: 'https://avatars.githubusercontent.com/u/175880?v=4',
     slides: [
       {
         direction: 'r',
@@ -972,8 +965,7 @@ module.exports = {
       {
         direction: 'r',
         title: 'P5.js JavaScript para artistas',
-        url:
-          'https://docs.google.com/presentation/d/1N7OVi4wwG-31K27Lytwh73VtZV-IKk7L2lOffW6Hwwk/pub?start=false&loop=false&delayms=3000&slide=id.g79471db9d_00',
+        url: 'https://docs.google.com/presentation/d/1N7OVi4wwG-31K27Lytwh73VtZV-IKk7L2lOffW6Hwwk/pub?start=false&loop=false&delayms=3000&slide=id.g79471db9d_00',
         thumbnail:
           'https://lh3.googleusercontent.com/fXbFbNNS6bOvsBHkfGgjyqmhW7ZQGAmNkfOwilfUroTWPvc3EI_gpvVOqivLpiuNKn-yyhJ8aHabYoCueaUu8dq6JMudjdIJz2jRuV9M_wqIvAq6PBhSmOCWFQ5pYuBNzXvqHBl_yA',
       },
@@ -1169,8 +1161,7 @@ module.exports = {
     username: 'mafesernaarbole',
     twitter: 'https://twitter.com/mafesernaarbole',
     github: 'https://github.com/mafesernaarboleda',
-    avatar:
-      'https://pbs.twimg.com/profile_images/920062386358444038/R0XzV4F-_200x200.jpg',
+    avatar: 'https://avatars.githubusercontent.com/u/14205513?v=4',
     slides: [
       {
         direction: 'r',
@@ -1254,7 +1245,8 @@ module.exports = {
     username: 'anonymous',
     twitter: '',
     github: '',
-    avatar: 'https://sm-c.jp/wp-content/uploads/2017/09/mr-x.jpg',
+    avatar:
+      'https://pbs.twimg.com/profile_images/1012362101510160384/EjayQ10E_400x400.jpg',
     slides: [
       {
         direction: 'r',
@@ -1427,7 +1419,7 @@ module.exports = {
     twitter: 'https://twitter.com/HumoBinario',
     github: '',
     avatar:
-      'https://pbs.twimg.com/profile_images/1064749741588795392/_-Ze0j0j_400x400.jpg',
+      'https://pbs.twimg.com/profile_images/1711028373839884288/op6SpAJm_400x400.jpg',
     slides: [
       {
         direction: 'r',
@@ -1464,8 +1456,7 @@ module.exports = {
       {
         direction: 'r',
         title: 'Accessibility is important.. now what?',
-        url:
-          'https://drive.google.com/open?id=1T1BANZekaOH0z5l11e9_Zb3rMycDbGgk',
+        url: 'https://drive.google.com/open?id=1T1BANZekaOH0z5l11e9_Zb3rMycDbGgk',
         thumbnail: '',
       },
     ],
